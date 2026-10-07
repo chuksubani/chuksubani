@@ -8,4 +8,4 @@ Deepening AI engineering through AWS AI Engineering (Udacity Nanodegree) and  TR
 
 **Pinned work below** — short reads on each project in their READMEs.
 
-chuks.ubani0@gmail.com · [LinkedIn](https://www.linkedin.com/in/chukwuma-virgold/) · Remote||Worldwide
+chuks.ubani0@gmail.com · [LinkedIn](https://www.linkedin.com/in/chukwuma-virgold/) · Remote | Worldwide
