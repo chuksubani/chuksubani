@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer · AI-Native Product Development</b><br/>
-  React · TypeScript · Python · Nigeria (UTC+1)
+  React · TypeScript · Python · Remote | Worldwide
 </p>
 
 <p align="center">
