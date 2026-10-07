@@ -24,9 +24,9 @@ Deepening AI engineering through the **AWS AI Engineer Nanodegree (Udacity)** an
 
 ### Currently
 
-- 🔧 Shipping compliance and payments interfaces at OpenFactor
-- 🧠 Training a Small Language Model (Python, TRI AI Saturdays Cohort 10)
-- ✍️ Writing about async state modeling for high-stakes financial UIs
+-  Shipping compliance and payments interfaces
+-  Trained a Small Language Model (Python, TRI AI Saturdays Cohort 10)
+-  Writing about async state modeling for high-stakes financial UIs
 
 ### Stack
 
